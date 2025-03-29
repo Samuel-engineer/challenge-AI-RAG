@@ -1,0 +1,1 @@
+{'date': '2025-03-25', 'categories': ['1. Filing requirements and formalities', '4. Fees, payment methods, and time limits'], 'subcategories': ['1.1 Minimum requirements for a filing date', '1.2 Filing methods and locations', '4.2 Payment mechanisms'], 'question_types': ['Choix multiples'], 'num_questions': 10, 'num_choices': 2}

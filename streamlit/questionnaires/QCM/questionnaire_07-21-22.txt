@@ -1,0 +1,1 @@
+{'date': '2025-03-25', 'categories': ['2. Priority claims and right of priority', '4. Fees, payment methods, and time limits'], 'subcategories': ['2.2 Time limits and restoration', '2.1 Substantive requirements for priority', '4.2 Payment mechanisms', '4.1 Types and calculation of fees'], 'question_types': ['Choix multiples', 'QCM'], 'num_questions': 20, 'num_choices': 4}

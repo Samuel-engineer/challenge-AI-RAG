@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./data battle/data battle/data_battle/app",
+        "./data battle/app"
+    ]
+}
