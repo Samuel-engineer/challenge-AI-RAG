@@ -7,7 +7,7 @@ import uuid
 import re
 
 # Ajouter les chemins vers les modules
-sys.path.append("../data battle/app")
+sys.path.append("../backend/app")
 from api_utils import get_api_response
 
 # 🔍 Parse le texte brut en objets questions

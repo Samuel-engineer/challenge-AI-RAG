@@ -50,7 +50,7 @@ def get_rag_chain(model="mistral-large-latest"):
     Crée un pipeline RAG optimisé avec LangChain et MistralAI.
     """
     try:
-        llm = ChatMistralAI(model=model, temperature=0)  # Temperature = 0 pour des réponses plus précises
+        llm = ChatMistralAI(model=model, temperature=0)  
 
         history_aware_retriever = create_history_aware_retriever(llm, retriever, contextualize_q_prompt)
         question_answer_chain = create_stuff_documents_chain(llm, qa_prompt)
