@@ -26,7 +26,7 @@ Lancer le Projet
 Démarrer le Serveur API
 Accédez au dossier data_battle/api et exécutez la commande suivante :
 ```bash
-cd data_battle/api
+cd backend/api
 uvicorn main:app --reload
 ```
 L'API sera accessible à l'adresse : http://127.0.0.1:8000
