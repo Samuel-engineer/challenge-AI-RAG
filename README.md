@@ -3,6 +3,8 @@
 ## Description
 Challenge AI est une plateforme d'apprentissage destinée aux étudiants en ingénierie brevet. Elle exploite un modèle d'IA, **Mistral Large**, appelé via API et basé sur une approche **RAG (Retrieval-Augmented Generation)** combinée à du **scraping** des textes légaux de l'**EPO (Office Européen des Brevets)**.
 ![Logo Challenge AI](assets/image.png)
+![Logo Challenge AI](assets/image2.png)
+
 
 ## Fonctionnalités
 - **Accès à des informations juridiques brevet** via scraping et analyse de textes.
